@@ -1,8 +1,5 @@
 ## Hi there 👋 I am Aditya Joshi 
 
-
-# 👋 Hi there! I'm Aditya Joshi  
-
 🚀 *Software Developer | AI & ML Enthusiast | Full-Stack Developer*  
 
 🔹 Passionate about *Machine Learning, Full-Stack Development, and Cloud Computing*  
@@ -81,6 +78,5 @@
 ---
 
 ## 📬 Get in Touch  
-- 📧 Email: aditya.joshi@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-joshi/)  
-- 🐙 [GitHub](https://github.com/aditya-joshi/)
+- 📧 Email: jaditya2020@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-joshi-31034b292/)  
