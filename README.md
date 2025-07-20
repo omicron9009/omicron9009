@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aditya Joshi 
 
-🚀 *Software Developer | AI & ML Enthusiast | Full-Stack Developer*  
+🚀 *Software Developer | AI & ML Enthusiast*  
 
 🔹 Passionate about *Machine Learning, Full-Stack Development, and Cloud Computing*  
 🔹 Strong foundation in *Python, C++, Java, and SQL*  
